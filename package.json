@@ -1,0 +1,31 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "Code I wrote to learn stuff.",
+  "prettier": "@vercel/style-guide/prettier",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhillipChaffee/learn.git"
+  },
+  "keywords": [
+    "learn",
+    "algorithms",
+    "leetcode",
+    "practice"
+  ],
+  "author": "phillipdensmorechaffee@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhillipChaffee/learn/issues"
+  },
+  "homepage": "https://github.com/PhillipChaffee/learn#readme",
+  "devDependencies": {
+    "@tsconfig/strictest": "^1.0.1",
+    "@vercel/style-guide": "^3.0.0",
+    "eslint": "^8.18.0",
+    "prettier": "^2.7.1"
+  }
+}
